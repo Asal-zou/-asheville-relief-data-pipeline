@@ -197,3 +197,4 @@ config.yaml
 # MinIO and other binary-related data
 downloads/
 *.pdf  # Exclude PDFs if they are used only for testing
+config/settings.py
